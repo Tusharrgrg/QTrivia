@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QTrivia</string>
+    <string name="title">QTrivia</string>
+    <string name="trueButton">TRUE</string>
+    <string name="falseButton">FALSE</string>
+    <string name="nextButton">NEXT</string>
+    <string name="text_formated">Question:%d/%d</string>
+    <string name="correct">correct</string>
+    <string name="incorrect">incorrect</string>
+</resources>
